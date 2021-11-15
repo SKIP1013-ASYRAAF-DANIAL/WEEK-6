@@ -1,0 +1,21 @@
+Enter your first subject : 
+PROGRAMMING
+
+Enter your mark for first subject : 
+85
+
+Enter your second subject : 
+MATH
+
+Enter your mark for second subject : 
+45
+
+Your subject for MATH is higher than PROGRAMMING
+Pass
+
+Your subject for PROGRAMMING is pass
+
+Your subject for MATH is failed
+
+Your average mark is 65.0
+Your average grade is B
