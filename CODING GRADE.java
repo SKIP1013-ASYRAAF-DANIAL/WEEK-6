@@ -45,12 +45,12 @@ public class Grade {
 		
 		if (mark2 > mark1)
 		{
-			System.out.println("Your subject for " + sub1 + " is higher than " + sub2);
+			System.out.println("Your mark for " + sub1 + " is higher than " + sub2);
 		}
 
 		else
 		{
-			System.out.println("Your subject for " + sub2 + " is higher than " + sub1);
+			System.out.println("Your mark for " + sub2 + " is higher than " + sub1);
 		}
 		
 		
